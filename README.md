@@ -30,7 +30,7 @@ G1030, G0130, G0064, G0087, G1044, G0003, G0052, G1012, G1027, G0137, G0117, G00
 
 ## Open the combined matrix in ATT&CK Navigator
 
-1. Go to the MITRE ATT&CK Navigator.
+1. Go to the MITRE ATT&CK Navigator https://mitre-attack.github.io/attack-navigator/
 2. Choose **Open Existing Layer**.
 3. Upload `data/iran_attack_aggregated_layer.json`.
 
